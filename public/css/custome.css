@@ -1,0 +1,28 @@
+.color-grey  {
+    background-color: #CBCDC8 !important;
+}
+
+.color-white  {
+    color: #FFF !important;
+}
+
+.color-font-brown {
+    color: #753000 !important;
+}
+
+.font-size-1 {
+    font-size: 10px !important;
+}
+
+.font-size-2 {
+    font-size: 12px !important;
+}
+
+.form-label-required:after {
+    content: " *";
+    color: red;
+}
+
+.color-red {
+    color: red;
+}
